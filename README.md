@@ -52,7 +52,7 @@
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/1111.html?ytag=re5y49">
+        <a href="https://www.ucloud.cn/site/active/1111.html?invitation_code=C1xF2ECA89A2592">
           <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/ucloud.png" width="50px"><br>
           <sub>UCloud</sub><br>
           <sub>88 元/年云主机</sub>
